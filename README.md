@@ -1,5 +1,5 @@
 # Machine Learning multi-class classification of Wikipedia articles
-This repository contains an end-to-end **big data / NLP** pipeline with the goal of exploring English Wikipedia content adn building an **automatic multi-class text classifier** able to assign each article to one of **15 thematic categories** (e.g., *Culture, Economics, Medicine, Technology, Politics, Science*) using **PySpark's Machine Learning Library (MLlib)**. The full project can be visualized in the [`wikipedia_ml_classification.ipynb`](https://github.com/lgucrl/machine-learning-wikipedia-classification/blob/main/wikipedia_ml_classification.ipynb) notebook.
+This repository contains an end-to-end **big data / NLP** pipeline with the goal of exploring English Wikipedia content and building an **automatic multi-class text classifier** able to assign each article to one of **15 thematic categories** (e.g., *Culture, Economics, Medicine, Technology, Politics, Science*) using **PySpark's Machine Learning Library (MLlib)**. The full project can be visualized in the [`wikipedia_ml_classification.ipynb`](https://github.com/lgucrl/machine-learning-wikipedia-classification/blob/main/wikipedia_ml_classification.ipynb) notebook.
 
 ---
 
